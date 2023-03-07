@@ -20,7 +20,4 @@ public class RepeatingCharacters {
     }
 
 
-    public static void main(String args[]){
-        System.out.println(RepeatingCharacters.lengthOfLongestSubstring("dvdf"));
-    }
 }
