@@ -23,9 +23,9 @@ public class BinarySearch {
         return index;
     }
 
-//    public static void main(String[] args) {
-//        BinarySearch bs = new BinarySearch();
-//        int[] arr = {-1,0,5};
-//        System.out.println(bs.search(arr, 5));
-//    }
+    public static void main(String[] args) {
+        BinarySearch bs = new BinarySearch();
+        int[] arr = {-1,0,5};
+        System.out.println(bs.search(arr, 5));
+    }
 }
